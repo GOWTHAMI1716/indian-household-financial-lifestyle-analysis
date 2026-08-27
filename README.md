@@ -145,6 +145,20 @@ Analyzes:
 - Financial vulnerability distribution
 - Loan burden by employment status
 
+- ## 📸 Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](screenshots/executive-overview.png)
+
+### Income & Expenses
+
+![Income & Expenses](screenshots/income-expenses.png)
+
+### Financial Health & Risk
+
+![Financial Health & Risk](screenshots/financial-health-risk.png)
+
 ---
 
 ## 🔍 Key Insights
