@@ -96,7 +96,7 @@ Key data preparation steps included:
 | KPI | Value |
 |---|---:|
 | Total Households | 10,000 |
-| Average Monthly Income | ₹56.33K |
+| Average Monthly Income | ₹56.32K |
 | Average Monthly Expenses | ₹43.88K |
 | Average Monthly Savings | ₹5.09K |
 | Average Financial Health Score | 60.76 |
